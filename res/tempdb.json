@@ -1,0 +1,2194 @@
+{
+    "temperatures": [
+        {
+            "DateDuJour": "1/1/2021",
+            "Temp": "-7",
+            "MinTemp": "-11",
+            "MaxTemp": "-1"
+        },
+        {
+            "DateDuJour": "1/2/2021",
+            "Temp": "-10",
+            "MinTemp": "-13",
+            "MaxTemp": "-5"
+        },
+        {
+            "DateDuJour": "1/3/2021",
+            "Temp": "-19",
+            "MinTemp": "-25",
+            "MaxTemp": "-15"
+        },
+        {
+            "DateDuJour": "1/4/2021",
+            "Temp": "-9",
+            "MinTemp": "-11",
+            "MaxTemp": "-2"
+        },
+        {
+            "DateDuJour": "1/5/2021",
+            "Temp": "-23",
+            "MinTemp": "-26",
+            "MaxTemp": "-18"
+        },
+        {
+            "DateDuJour": "1/6/2021",
+            "Temp": "-17",
+            "MinTemp": "-22",
+            "MaxTemp": "-13"
+        },
+        {
+            "DateDuJour": "1/7/2021",
+            "Temp": "-1",
+            "MinTemp": "-4",
+            "MaxTemp": "6"
+        },
+        {
+            "DateDuJour": "1/8/2021",
+            "Temp": "4",
+            "MinTemp": "2",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "1/9/2021",
+            "Temp": "-1",
+            "MinTemp": "-4",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "1/10/2021",
+            "Temp": "1",
+            "MinTemp": "-4",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "1/11/2021",
+            "Temp": "-18",
+            "MinTemp": "-22",
+            "MaxTemp": "-13"
+        },
+        {
+            "DateDuJour": "1/12/2021",
+            "Temp": "-17",
+            "MinTemp": "-18",
+            "MaxTemp": "-10"
+        },
+        {
+            "DateDuJour": "1/13/2021",
+            "Temp": "-25",
+            "MinTemp": "-29",
+            "MaxTemp": "-18"
+        },
+        {
+            "DateDuJour": "1/14/2021",
+            "Temp": "-15",
+            "MinTemp": "-21",
+            "MaxTemp": "-13"
+        },
+        {
+            "DateDuJour": "1/15/2021",
+            "Temp": "-14",
+            "MinTemp": "-20",
+            "MaxTemp": "-8"
+        },
+        {
+            "DateDuJour": "1/16/2021",
+            "Temp": "0",
+            "MinTemp": "-3",
+            "MaxTemp": "2"
+        },
+        {
+            "DateDuJour": "1/17/2021",
+            "Temp": "-2",
+            "MinTemp": "-6",
+            "MaxTemp": "4"
+        },
+        {
+            "DateDuJour": "1/18/2021",
+            "Temp": "-12",
+            "MinTemp": "-13",
+            "MaxTemp": "-6"
+        },
+        {
+            "DateDuJour": "1/19/2021",
+            "Temp": "-14",
+            "MinTemp": "-19",
+            "MaxTemp": "-7"
+        },
+        {
+            "DateDuJour": "1/20/2021",
+            "Temp": "1",
+            "MinTemp": "0",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "1/21/2021",
+            "Temp": "-21",
+            "MinTemp": "-23",
+            "MaxTemp": "-18"
+        },
+        {
+            "DateDuJour": "1/22/2021",
+            "Temp": "-12",
+            "MinTemp": "-17",
+            "MaxTemp": "-5"
+        },
+        {
+            "DateDuJour": "1/23/2021",
+            "Temp": "-12",
+            "MinTemp": "-13",
+            "MaxTemp": "-10"
+        },
+        {
+            "DateDuJour": "1/24/2021",
+            "Temp": "3",
+            "MinTemp": "1",
+            "MaxTemp": "10"
+        },
+        {
+            "DateDuJour": "1/25/2021",
+            "Temp": "-9",
+            "MinTemp": "-10",
+            "MaxTemp": "-3"
+        },
+        {
+            "DateDuJour": "1/26/2021",
+            "Temp": "-1",
+            "MinTemp": "-4",
+            "MaxTemp": "2"
+        },
+        {
+            "DateDuJour": "1/27/2021",
+            "Temp": "-20",
+            "MinTemp": "-21",
+            "MaxTemp": "-16"
+        },
+        {
+            "DateDuJour": "1/28/2021",
+            "Temp": "5",
+            "MinTemp": "1",
+            "MaxTemp": "11"
+        },
+        {
+            "DateDuJour": "1/29/2021",
+            "Temp": "2",
+            "MinTemp": "-2",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "1/30/2021",
+            "Temp": "-2",
+            "MinTemp": "-6",
+            "MaxTemp": "3"
+        },
+        {
+            "DateDuJour": "1/31/2021",
+            "Temp": "-16",
+            "MinTemp": "-17",
+            "MaxTemp": "-9"
+        },
+        {
+            "DateDuJour": "2/1/2021",
+            "Temp": "-3",
+            "MinTemp": "-8",
+            "MaxTemp": "4"
+        },
+        {
+            "DateDuJour": "2/2/2021",
+            "Temp": "-15",
+            "MinTemp": "-19",
+            "MaxTemp": "-13"
+        },
+        {
+            "DateDuJour": "2/3/2021",
+            "Temp": "-1",
+            "MinTemp": "-7",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "2/4/2021",
+            "Temp": "-10",
+            "MinTemp": "-11",
+            "MaxTemp": "-8"
+        },
+        {
+            "DateDuJour": "2/5/2021",
+            "Temp": "-22",
+            "MinTemp": "-26",
+            "MaxTemp": "-20"
+        },
+        {
+            "DateDuJour": "2/6/2021",
+            "Temp": "-8",
+            "MinTemp": "-9",
+            "MaxTemp": "-1"
+        },
+        {
+            "DateDuJour": "2/7/2021",
+            "Temp": "-20",
+            "MinTemp": "-23",
+            "MaxTemp": "-17"
+        },
+        {
+            "DateDuJour": "2/8/2021",
+            "Temp": "2",
+            "MinTemp": "-4",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "2/9/2021",
+            "Temp": "0",
+            "MinTemp": "-6",
+            "MaxTemp": "2"
+        },
+        {
+            "DateDuJour": "2/10/2021",
+            "Temp": "0",
+            "MinTemp": "-4",
+            "MaxTemp": "3"
+        },
+        {
+            "DateDuJour": "2/11/2021",
+            "Temp": "-4",
+            "MinTemp": "-9",
+            "MaxTemp": "2"
+        },
+        {
+            "DateDuJour": "2/12/2021",
+            "Temp": "-9",
+            "MinTemp": "-12",
+            "MaxTemp": "-2"
+        },
+        {
+            "DateDuJour": "2/13/2021",
+            "Temp": "-26",
+            "MinTemp": "-27",
+            "MaxTemp": "-22"
+        },
+        {
+            "DateDuJour": "2/14/2021",
+            "Temp": "-1",
+            "MinTemp": "-4",
+            "MaxTemp": "1"
+        },
+        {
+            "DateDuJour": "2/15/2021",
+            "Temp": "-26",
+            "MinTemp": "-29",
+            "MaxTemp": "-19"
+        },
+        {
+            "DateDuJour": "2/16/2021",
+            "Temp": "-10",
+            "MinTemp": "-11",
+            "MaxTemp": "-3"
+        },
+        {
+            "DateDuJour": "2/17/2021",
+            "Temp": "-9",
+            "MinTemp": "-14",
+            "MaxTemp": "-2"
+        },
+        {
+            "DateDuJour": "2/18/2021",
+            "Temp": "-23",
+            "MinTemp": "-27",
+            "MaxTemp": "-18"
+        },
+        {
+            "DateDuJour": "2/19/2021",
+            "Temp": "-5",
+            "MinTemp": "-9",
+            "MaxTemp": "-1"
+        },
+        {
+            "DateDuJour": "2/20/2021",
+            "Temp": "-16",
+            "MinTemp": "-17",
+            "MaxTemp": "-12"
+        },
+        {
+            "DateDuJour": "2/21/2021",
+            "Temp": "-12",
+            "MinTemp": "-14",
+            "MaxTemp": "-8"
+        },
+        {
+            "DateDuJour": "2/22/2021",
+            "Temp": "-8",
+            "MinTemp": "-10",
+            "MaxTemp": "-2"
+        },
+        {
+            "DateDuJour": "2/23/2021",
+            "Temp": "0",
+            "MinTemp": "-1",
+            "MaxTemp": "3"
+        },
+        {
+            "DateDuJour": "2/24/2021",
+            "Temp": "-8",
+            "MinTemp": "-12",
+            "MaxTemp": "-4"
+        },
+        {
+            "DateDuJour": "2/25/2021",
+            "Temp": "3",
+            "MinTemp": "-2",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "2/26/2021",
+            "Temp": "5",
+            "MinTemp": "-1",
+            "MaxTemp": "10"
+        },
+        {
+            "DateDuJour": "2/27/2021",
+            "Temp": "-14",
+            "MinTemp": "-20",
+            "MaxTemp": "-11"
+        },
+        {
+            "DateDuJour": "2/28/2021",
+            "Temp": "-20",
+            "MinTemp": "-23",
+            "MaxTemp": "-18"
+        },
+        {
+            "DateDuJour": "3/1/2021",
+            "Temp": "-18",
+            "MinTemp": "-22",
+            "MaxTemp": "-15"
+        },
+        {
+            "DateDuJour": "3/2/2021",
+            "Temp": "-2",
+            "MinTemp": "-3",
+            "MaxTemp": "4"
+        },
+        {
+            "DateDuJour": "3/3/2021",
+            "Temp": "4",
+            "MinTemp": "-2",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "3/4/2021",
+            "Temp": "-5",
+            "MinTemp": "-7",
+            "MaxTemp": "-2"
+        },
+        {
+            "DateDuJour": "3/5/2021",
+            "Temp": "5",
+            "MinTemp": "0",
+            "MaxTemp": "12"
+        },
+        {
+            "DateDuJour": "3/6/2021",
+            "Temp": "-13",
+            "MinTemp": "-17",
+            "MaxTemp": "-10"
+        },
+        {
+            "DateDuJour": "3/7/2021",
+            "Temp": "-24",
+            "MinTemp": "-26",
+            "MaxTemp": "-17"
+        },
+        {
+            "DateDuJour": "3/8/2021",
+            "Temp": "-7",
+            "MinTemp": "-12",
+            "MaxTemp": "-2"
+        },
+        {
+            "DateDuJour": "3/9/2021",
+            "Temp": "-1",
+            "MinTemp": "-5",
+            "MaxTemp": "4"
+        },
+        {
+            "DateDuJour": "3/10/2021",
+            "Temp": "-12",
+            "MinTemp": "-17",
+            "MaxTemp": "-7"
+        },
+        {
+            "DateDuJour": "3/11/2021",
+            "Temp": "-8",
+            "MinTemp": "-13",
+            "MaxTemp": "-1"
+        },
+        {
+            "DateDuJour": "3/12/2021",
+            "Temp": "-6",
+            "MinTemp": "-10",
+            "MaxTemp": "0"
+        },
+        {
+            "DateDuJour": "3/13/2021",
+            "Temp": "3",
+            "MinTemp": "2",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "3/14/2021",
+            "Temp": "-3",
+            "MinTemp": "-8",
+            "MaxTemp": "1"
+        },
+        {
+            "DateDuJour": "3/15/2021",
+            "Temp": "-23",
+            "MinTemp": "-25",
+            "MaxTemp": "-16"
+        },
+        {
+            "DateDuJour": "3/16/2021",
+            "Temp": "-21",
+            "MinTemp": "-27",
+            "MaxTemp": "-15"
+        },
+        {
+            "DateDuJour": "3/17/2021",
+            "Temp": "-9",
+            "MinTemp": "-14",
+            "MaxTemp": "-4"
+        },
+        {
+            "DateDuJour": "3/18/2021",
+            "Temp": "-4",
+            "MinTemp": "-8",
+            "MaxTemp": "0"
+        },
+        {
+            "DateDuJour": "3/19/2021",
+            "Temp": "-23",
+            "MinTemp": "-28",
+            "MaxTemp": "-17"
+        },
+        {
+            "DateDuJour": "3/20/2021",
+            "Temp": "-6",
+            "MinTemp": "-11",
+            "MaxTemp": "-2"
+        },
+        {
+            "DateDuJour": "3/21/2021",
+            "Temp": "-2",
+            "MinTemp": "-6",
+            "MaxTemp": "3"
+        },
+        {
+            "DateDuJour": "3/22/2021",
+            "Temp": "20",
+            "MinTemp": "15",
+            "MaxTemp": "23"
+        },
+        {
+            "DateDuJour": "3/23/2021",
+            "Temp": "19",
+            "MinTemp": "16",
+            "MaxTemp": "25"
+        },
+        {
+            "DateDuJour": "3/24/2021",
+            "Temp": "0",
+            "MinTemp": "-6",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "3/25/2021",
+            "Temp": "13",
+            "MinTemp": "9",
+            "MaxTemp": "19"
+        },
+        {
+            "DateDuJour": "3/26/2021",
+            "Temp": "21",
+            "MinTemp": "17",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "3/27/2021",
+            "Temp": "1",
+            "MinTemp": "-2",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "3/28/2021",
+            "Temp": "3",
+            "MinTemp": "1",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "3/29/2021",
+            "Temp": "19",
+            "MinTemp": "15",
+            "MaxTemp": "25"
+        },
+        {
+            "DateDuJour": "3/30/2021",
+            "Temp": "14",
+            "MinTemp": "11",
+            "MaxTemp": "19"
+        },
+        {
+            "DateDuJour": "3/31/2021",
+            "Temp": "11",
+            "MinTemp": "6",
+            "MaxTemp": "18"
+        },
+        {
+            "DateDuJour": "4/1/2021",
+            "Temp": "6",
+            "MinTemp": "0",
+            "MaxTemp": "11"
+        },
+        {
+            "DateDuJour": "4/2/2021",
+            "Temp": "7",
+            "MinTemp": "2",
+            "MaxTemp": "11"
+        },
+        {
+            "DateDuJour": "4/3/2021",
+            "Temp": "10",
+            "MinTemp": "4",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "4/4/2021",
+            "Temp": "4",
+            "MinTemp": "1",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "4/5/2021",
+            "Temp": "11",
+            "MinTemp": "10",
+            "MaxTemp": "18"
+        },
+        {
+            "DateDuJour": "4/6/2021",
+            "Temp": "11",
+            "MinTemp": "7",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "4/7/2021",
+            "Temp": "14",
+            "MinTemp": "11",
+            "MaxTemp": "17"
+        },
+        {
+            "DateDuJour": "4/8/2021",
+            "Temp": "2",
+            "MinTemp": "-3",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "4/9/2021",
+            "Temp": "9",
+            "MinTemp": "8",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "4/10/2021",
+            "Temp": "21",
+            "MinTemp": "15",
+            "MaxTemp": "24"
+        },
+        {
+            "DateDuJour": "4/11/2021",
+            "Temp": "5",
+            "MinTemp": "2",
+            "MaxTemp": "11"
+        },
+        {
+            "DateDuJour": "4/12/2021",
+            "Temp": "14",
+            "MinTemp": "9",
+            "MaxTemp": "19"
+        },
+        {
+            "DateDuJour": "4/13/2021",
+            "Temp": "19",
+            "MinTemp": "13",
+            "MaxTemp": "26"
+        },
+        {
+            "DateDuJour": "4/14/2021",
+            "Temp": "4",
+            "MinTemp": "-1",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "4/15/2021",
+            "Temp": "2",
+            "MinTemp": "0",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "4/16/2021",
+            "Temp": "9",
+            "MinTemp": "4",
+            "MaxTemp": "11"
+        },
+        {
+            "DateDuJour": "4/17/2021",
+            "Temp": "13",
+            "MinTemp": "9",
+            "MaxTemp": "17"
+        },
+        {
+            "DateDuJour": "4/18/2021",
+            "Temp": "21",
+            "MinTemp": "19",
+            "MaxTemp": "28"
+        },
+        {
+            "DateDuJour": "4/19/2021",
+            "Temp": "13",
+            "MinTemp": "10",
+            "MaxTemp": "19"
+        },
+        {
+            "DateDuJour": "4/20/2021",
+            "Temp": "6",
+            "MinTemp": "5",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "4/21/2021",
+            "Temp": "6",
+            "MinTemp": "4",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "4/22/2021",
+            "Temp": "18",
+            "MinTemp": "14",
+            "MaxTemp": "22"
+        },
+        {
+            "DateDuJour": "4/23/2021",
+            "Temp": "4",
+            "MinTemp": "-1",
+            "MaxTemp": "11"
+        },
+        {
+            "DateDuJour": "4/24/2021",
+            "Temp": "21",
+            "MinTemp": "17",
+            "MaxTemp": "28"
+        },
+        {
+            "DateDuJour": "4/25/2021",
+            "Temp": "17",
+            "MinTemp": "13",
+            "MaxTemp": "24"
+        },
+        {
+            "DateDuJour": "4/26/2021",
+            "Temp": "21",
+            "MinTemp": "18",
+            "MaxTemp": "24"
+        },
+        {
+            "DateDuJour": "4/27/2021",
+            "Temp": "2",
+            "MinTemp": "-3",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "4/28/2021",
+            "Temp": "0",
+            "MinTemp": "-3",
+            "MaxTemp": "3"
+        },
+        {
+            "DateDuJour": "4/29/2021",
+            "Temp": "2",
+            "MinTemp": "-1",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "4/30/2021",
+            "Temp": "13",
+            "MinTemp": "10",
+            "MaxTemp": "15"
+        },
+        {
+            "DateDuJour": "5/1/2021",
+            "Temp": "6",
+            "MinTemp": "5",
+            "MaxTemp": "10"
+        },
+        {
+            "DateDuJour": "5/2/2021",
+            "Temp": "1",
+            "MinTemp": "-3",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "5/3/2021",
+            "Temp": "2",
+            "MinTemp": "0",
+            "MaxTemp": "6"
+        },
+        {
+            "DateDuJour": "5/4/2021",
+            "Temp": "7",
+            "MinTemp": "4",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "5/5/2021",
+            "Temp": "20",
+            "MinTemp": "17",
+            "MaxTemp": "23"
+        },
+        {
+            "DateDuJour": "5/6/2021",
+            "Temp": "6",
+            "MinTemp": "0",
+            "MaxTemp": "13"
+        },
+        {
+            "DateDuJour": "5/7/2021",
+            "Temp": "8",
+            "MinTemp": "3",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "5/8/2021",
+            "Temp": "9",
+            "MinTemp": "3",
+            "MaxTemp": "13"
+        },
+        {
+            "DateDuJour": "5/9/2021",
+            "Temp": "8",
+            "MinTemp": "7",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "5/10/2021",
+            "Temp": "16",
+            "MinTemp": "12",
+            "MaxTemp": "20"
+        },
+        {
+            "DateDuJour": "5/11/2021",
+            "Temp": "14",
+            "MinTemp": "8",
+            "MaxTemp": "17"
+        },
+        {
+            "DateDuJour": "5/12/2021",
+            "Temp": "4",
+            "MinTemp": "2",
+            "MaxTemp": "11"
+        },
+        {
+            "DateDuJour": "5/13/2021",
+            "Temp": "6",
+            "MinTemp": "4",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "5/14/2021",
+            "Temp": "16",
+            "MinTemp": "15",
+            "MaxTemp": "22"
+        },
+        {
+            "DateDuJour": "5/15/2021",
+            "Temp": "8",
+            "MinTemp": "5",
+            "MaxTemp": "12"
+        },
+        {
+            "DateDuJour": "5/16/2021",
+            "Temp": "1",
+            "MinTemp": "0",
+            "MaxTemp": "6"
+        },
+        {
+            "DateDuJour": "5/17/2021",
+            "Temp": "10",
+            "MinTemp": "4",
+            "MaxTemp": "16"
+        },
+        {
+            "DateDuJour": "5/18/2021",
+            "Temp": "16",
+            "MinTemp": "12",
+            "MaxTemp": "23"
+        },
+        {
+            "DateDuJour": "5/19/2021",
+            "Temp": "13",
+            "MinTemp": "9",
+            "MaxTemp": "19"
+        },
+        {
+            "DateDuJour": "5/20/2021",
+            "Temp": "2",
+            "MinTemp": "0",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "5/21/2021",
+            "Temp": "13",
+            "MinTemp": "7",
+            "MaxTemp": "20"
+        },
+        {
+            "DateDuJour": "5/22/2021",
+            "Temp": "15",
+            "MinTemp": "12",
+            "MaxTemp": "18"
+        },
+        {
+            "DateDuJour": "5/23/2021",
+            "Temp": "12",
+            "MinTemp": "8",
+            "MaxTemp": "19"
+        },
+        {
+            "DateDuJour": "5/24/2021",
+            "Temp": "19",
+            "MinTemp": "14",
+            "MaxTemp": "26"
+        },
+        {
+            "DateDuJour": "5/25/2021",
+            "Temp": "4",
+            "MinTemp": "2",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "5/26/2021",
+            "Temp": "1",
+            "MinTemp": "-5",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "5/27/2021",
+            "Temp": "4",
+            "MinTemp": "0",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "5/28/2021",
+            "Temp": "3",
+            "MinTemp": "-2",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "5/29/2021",
+            "Temp": "1",
+            "MinTemp": "-5",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "5/30/2021",
+            "Temp": "12",
+            "MinTemp": "11",
+            "MaxTemp": "18"
+        },
+        {
+            "DateDuJour": "5/31/2021",
+            "Temp": "17",
+            "MinTemp": "12",
+            "MaxTemp": "19"
+        },
+        {
+            "DateDuJour": "6/1/2021",
+            "Temp": "11",
+            "MinTemp": "9",
+            "MaxTemp": "17"
+        },
+        {
+            "DateDuJour": "6/2/2021",
+            "Temp": "12",
+            "MinTemp": "11",
+            "MaxTemp": "16"
+        },
+        {
+            "DateDuJour": "6/3/2021",
+            "Temp": "0",
+            "MinTemp": "-5",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "6/4/2021",
+            "Temp": "13",
+            "MinTemp": "9",
+            "MaxTemp": "18"
+        },
+        {
+            "DateDuJour": "6/5/2021",
+            "Temp": "4",
+            "MinTemp": "-2",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "6/6/2021",
+            "Temp": "11",
+            "MinTemp": "7",
+            "MaxTemp": "15"
+        },
+        {
+            "DateDuJour": "6/7/2021",
+            "Temp": "17",
+            "MinTemp": "16",
+            "MaxTemp": "22"
+        },
+        {
+            "DateDuJour": "6/8/2021",
+            "Temp": "8",
+            "MinTemp": "2",
+            "MaxTemp": "15"
+        },
+        {
+            "DateDuJour": "6/9/2021",
+            "Temp": "19",
+            "MinTemp": "15",
+            "MaxTemp": "22"
+        },
+        {
+            "DateDuJour": "6/10/2021",
+            "Temp": "20",
+            "MinTemp": "18",
+            "MaxTemp": "24"
+        },
+        {
+            "DateDuJour": "6/11/2021",
+            "Temp": "9",
+            "MinTemp": "5",
+            "MaxTemp": "11"
+        },
+        {
+            "DateDuJour": "6/12/2021",
+            "Temp": "6",
+            "MinTemp": "5",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "6/13/2021",
+            "Temp": "7",
+            "MinTemp": "6",
+            "MaxTemp": "13"
+        },
+        {
+            "DateDuJour": "6/14/2021",
+            "Temp": "4",
+            "MinTemp": "2",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "6/15/2021",
+            "Temp": "2",
+            "MinTemp": "-4",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "6/16/2021",
+            "Temp": "14",
+            "MinTemp": "12",
+            "MaxTemp": "17"
+        },
+        {
+            "DateDuJour": "6/17/2021",
+            "Temp": "10",
+            "MinTemp": "4",
+            "MaxTemp": "13"
+        },
+        {
+            "DateDuJour": "6/18/2021",
+            "Temp": "13",
+            "MinTemp": "9",
+            "MaxTemp": "16"
+        },
+        {
+            "DateDuJour": "6/19/2021",
+            "Temp": "13",
+            "MinTemp": "9",
+            "MaxTemp": "20"
+        },
+        {
+            "DateDuJour": "6/20/2021",
+            "Temp": "7",
+            "MinTemp": "6",
+            "MaxTemp": "12"
+        },
+        {
+            "DateDuJour": "6/21/2021",
+            "Temp": "20",
+            "MinTemp": "15",
+            "MaxTemp": "24"
+        },
+        {
+            "DateDuJour": "6/22/2021",
+            "Temp": "32",
+            "MinTemp": "30",
+            "MaxTemp": "37"
+        },
+        {
+            "DateDuJour": "6/23/2021",
+            "Temp": "21",
+            "MinTemp": "18",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "6/24/2021",
+            "Temp": "23",
+            "MinTemp": "19",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "6/25/2021",
+            "Temp": "34",
+            "MinTemp": "31",
+            "MaxTemp": "40"
+        },
+        {
+            "DateDuJour": "6/26/2021",
+            "Temp": "32",
+            "MinTemp": "26",
+            "MaxTemp": "35"
+        },
+        {
+            "DateDuJour": "6/27/2021",
+            "Temp": "35",
+            "MinTemp": "34",
+            "MaxTemp": "42"
+        },
+        {
+            "DateDuJour": "6/28/2021",
+            "Temp": "18",
+            "MinTemp": "14",
+            "MaxTemp": "22"
+        },
+        {
+            "DateDuJour": "6/29/2021",
+            "Temp": "23",
+            "MinTemp": "21",
+            "MaxTemp": "26"
+        },
+        {
+            "DateDuJour": "6/30/2021",
+            "Temp": "25",
+            "MinTemp": "24",
+            "MaxTemp": "32"
+        },
+        {
+            "DateDuJour": "7/1/2021",
+            "Temp": "26",
+            "MinTemp": "25",
+            "MaxTemp": "30"
+        },
+        {
+            "DateDuJour": "7/2/2021",
+            "Temp": "18",
+            "MinTemp": "14",
+            "MaxTemp": "25"
+        },
+        {
+            "DateDuJour": "7/3/2021",
+            "Temp": "27",
+            "MinTemp": "21",
+            "MaxTemp": "31"
+        },
+        {
+            "DateDuJour": "7/4/2021",
+            "Temp": "18",
+            "MinTemp": "16",
+            "MaxTemp": "24"
+        },
+        {
+            "DateDuJour": "7/5/2021",
+            "Temp": "18",
+            "MinTemp": "15",
+            "MaxTemp": "22"
+        },
+        {
+            "DateDuJour": "7/6/2021",
+            "Temp": "35",
+            "MinTemp": "31",
+            "MaxTemp": "38"
+        },
+        {
+            "DateDuJour": "7/7/2021",
+            "Temp": "23",
+            "MinTemp": "20",
+            "MaxTemp": "25"
+        },
+        {
+            "DateDuJour": "7/8/2021",
+            "Temp": "33",
+            "MinTemp": "31",
+            "MaxTemp": "40"
+        },
+        {
+            "DateDuJour": "7/9/2021",
+            "Temp": "34",
+            "MinTemp": "32",
+            "MaxTemp": "38"
+        },
+        {
+            "DateDuJour": "7/10/2021",
+            "Temp": "32",
+            "MinTemp": "30",
+            "MaxTemp": "35"
+        },
+        {
+            "DateDuJour": "7/11/2021",
+            "Temp": "33",
+            "MinTemp": "29",
+            "MaxTemp": "36"
+        },
+        {
+            "DateDuJour": "7/12/2021",
+            "Temp": "21",
+            "MinTemp": "15",
+            "MaxTemp": "26"
+        },
+        {
+            "DateDuJour": "7/13/2021",
+            "Temp": "31",
+            "MinTemp": "25",
+            "MaxTemp": "37"
+        },
+        {
+            "DateDuJour": "7/14/2021",
+            "Temp": "33",
+            "MinTemp": "30",
+            "MaxTemp": "39"
+        },
+        {
+            "DateDuJour": "7/15/2021",
+            "Temp": "34",
+            "MinTemp": "30",
+            "MaxTemp": "37"
+        },
+        {
+            "DateDuJour": "7/16/2021",
+            "Temp": "19",
+            "MinTemp": "13",
+            "MaxTemp": "21"
+        },
+        {
+            "DateDuJour": "7/17/2021",
+            "Temp": "20",
+            "MinTemp": "18",
+            "MaxTemp": "25"
+        },
+        {
+            "DateDuJour": "7/18/2021",
+            "Temp": "31",
+            "MinTemp": "28",
+            "MaxTemp": "34"
+        },
+        {
+            "DateDuJour": "7/19/2021",
+            "Temp": "25",
+            "MinTemp": "24",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "7/20/2021",
+            "Temp": "21",
+            "MinTemp": "20",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "7/21/2021",
+            "Temp": "22",
+            "MinTemp": "20",
+            "MaxTemp": "28"
+        },
+        {
+            "DateDuJour": "7/22/2021",
+            "Temp": "26",
+            "MinTemp": "25",
+            "MaxTemp": "30"
+        },
+        {
+            "DateDuJour": "7/23/2021",
+            "Temp": "22",
+            "MinTemp": "18",
+            "MaxTemp": "29"
+        },
+        {
+            "DateDuJour": "7/24/2021",
+            "Temp": "31",
+            "MinTemp": "30",
+            "MaxTemp": "35"
+        },
+        {
+            "DateDuJour": "7/25/2021",
+            "Temp": "24",
+            "MinTemp": "20",
+            "MaxTemp": "29"
+        },
+        {
+            "DateDuJour": "7/26/2021",
+            "Temp": "19",
+            "MinTemp": "15",
+            "MaxTemp": "23"
+        },
+        {
+            "DateDuJour": "7/27/2021",
+            "Temp": "24",
+            "MinTemp": "19",
+            "MaxTemp": "30"
+        },
+        {
+            "DateDuJour": "7/28/2021",
+            "Temp": "20",
+            "MinTemp": "14",
+            "MaxTemp": "22"
+        },
+        {
+            "DateDuJour": "7/29/2021",
+            "Temp": "20",
+            "MinTemp": "15",
+            "MaxTemp": "25"
+        },
+        {
+            "DateDuJour": "7/30/2021",
+            "Temp": "22",
+            "MinTemp": "20",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "7/31/2021",
+            "Temp": "35",
+            "MinTemp": "31",
+            "MaxTemp": "41"
+        },
+        {
+            "DateDuJour": "8/1/2021",
+            "Temp": "26",
+            "MinTemp": "24",
+            "MaxTemp": "30"
+        },
+        {
+            "DateDuJour": "8/2/2021",
+            "Temp": "20",
+            "MinTemp": "19",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "8/3/2021",
+            "Temp": "28",
+            "MinTemp": "27",
+            "MaxTemp": "35"
+        },
+        {
+            "DateDuJour": "8/4/2021",
+            "Temp": "24",
+            "MinTemp": "20",
+            "MaxTemp": "28"
+        },
+        {
+            "DateDuJour": "8/5/2021",
+            "Temp": "33",
+            "MinTemp": "31",
+            "MaxTemp": "35"
+        },
+        {
+            "DateDuJour": "8/6/2021",
+            "Temp": "21",
+            "MinTemp": "20",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "8/7/2021",
+            "Temp": "19",
+            "MinTemp": "15",
+            "MaxTemp": "25"
+        },
+        {
+            "DateDuJour": "8/8/2021",
+            "Temp": "28",
+            "MinTemp": "24",
+            "MaxTemp": "33"
+        },
+        {
+            "DateDuJour": "8/9/2021",
+            "Temp": "27",
+            "MinTemp": "22",
+            "MaxTemp": "29"
+        },
+        {
+            "DateDuJour": "8/10/2021",
+            "Temp": "28",
+            "MinTemp": "22",
+            "MaxTemp": "31"
+        },
+        {
+            "DateDuJour": "8/11/2021",
+            "Temp": "29",
+            "MinTemp": "26",
+            "MaxTemp": "35"
+        },
+        {
+            "DateDuJour": "8/12/2021",
+            "Temp": "34",
+            "MinTemp": "29",
+            "MaxTemp": "39"
+        },
+        {
+            "DateDuJour": "8/13/2021",
+            "Temp": "26",
+            "MinTemp": "24",
+            "MaxTemp": "29"
+        },
+        {
+            "DateDuJour": "8/14/2021",
+            "Temp": "28",
+            "MinTemp": "23",
+            "MaxTemp": "35"
+        },
+        {
+            "DateDuJour": "8/15/2021",
+            "Temp": "18",
+            "MinTemp": "14",
+            "MaxTemp": "23"
+        },
+        {
+            "DateDuJour": "8/16/2021",
+            "Temp": "21",
+            "MinTemp": "20",
+            "MaxTemp": "26"
+        },
+        {
+            "DateDuJour": "8/17/2021",
+            "Temp": "21",
+            "MinTemp": "18",
+            "MaxTemp": "25"
+        },
+        {
+            "DateDuJour": "8/18/2021",
+            "Temp": "32",
+            "MinTemp": "27",
+            "MaxTemp": "34"
+        },
+        {
+            "DateDuJour": "8/19/2021",
+            "Temp": "25",
+            "MinTemp": "20",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "8/20/2021",
+            "Temp": "21",
+            "MinTemp": "15",
+            "MaxTemp": "26"
+        },
+        {
+            "DateDuJour": "8/21/2021",
+            "Temp": "23",
+            "MinTemp": "22",
+            "MaxTemp": "28"
+        },
+        {
+            "DateDuJour": "8/22/2021",
+            "Temp": "20",
+            "MinTemp": "14",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "8/23/2021",
+            "Temp": "19",
+            "MinTemp": "13",
+            "MaxTemp": "21"
+        },
+        {
+            "DateDuJour": "8/24/2021",
+            "Temp": "20",
+            "MinTemp": "15",
+            "MaxTemp": "25"
+        },
+        {
+            "DateDuJour": "8/25/2021",
+            "Temp": "32",
+            "MinTemp": "27",
+            "MaxTemp": "34"
+        },
+        {
+            "DateDuJour": "8/26/2021",
+            "Temp": "20",
+            "MinTemp": "15",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "8/27/2021",
+            "Temp": "19",
+            "MinTemp": "14",
+            "MaxTemp": "24"
+        },
+        {
+            "DateDuJour": "8/28/2021",
+            "Temp": "34",
+            "MinTemp": "28",
+            "MaxTemp": "41"
+        },
+        {
+            "DateDuJour": "8/29/2021",
+            "Temp": "25",
+            "MinTemp": "24",
+            "MaxTemp": "27"
+        },
+        {
+            "DateDuJour": "8/30/2021",
+            "Temp": "32",
+            "MinTemp": "29",
+            "MaxTemp": "37"
+        },
+        {
+            "DateDuJour": "8/31/2021",
+            "Temp": "34",
+            "MinTemp": "29",
+            "MaxTemp": "40"
+        },
+        {
+            "DateDuJour": "9/1/2021",
+            "Temp": "20",
+            "MinTemp": "18",
+            "MaxTemp": "25"
+        },
+        {
+            "DateDuJour": "9/2/2021",
+            "Temp": "22",
+            "MinTemp": "16",
+            "MaxTemp": "24"
+        },
+        {
+            "DateDuJour": "9/3/2021",
+            "Temp": "29",
+            "MinTemp": "23",
+            "MaxTemp": "36"
+        },
+        {
+            "DateDuJour": "9/4/2021",
+            "Temp": "33",
+            "MinTemp": "27",
+            "MaxTemp": "40"
+        },
+        {
+            "DateDuJour": "9/5/2021",
+            "Temp": "22",
+            "MinTemp": "17",
+            "MaxTemp": "28"
+        },
+        {
+            "DateDuJour": "9/6/2021",
+            "Temp": "24",
+            "MinTemp": "19",
+            "MaxTemp": "28"
+        },
+        {
+            "DateDuJour": "9/7/2021",
+            "Temp": "24",
+            "MinTemp": "20",
+            "MaxTemp": "28"
+        },
+        {
+            "DateDuJour": "9/8/2021",
+            "Temp": "27",
+            "MinTemp": "21",
+            "MaxTemp": "34"
+        },
+        {
+            "DateDuJour": "9/9/2021",
+            "Temp": "18",
+            "MinTemp": "12",
+            "MaxTemp": "23"
+        },
+        {
+            "DateDuJour": "9/10/2021",
+            "Temp": "35",
+            "MinTemp": "31",
+            "MaxTemp": "37"
+        },
+        {
+            "DateDuJour": "9/11/2021",
+            "Temp": "27",
+            "MinTemp": "24",
+            "MaxTemp": "32"
+        },
+        {
+            "DateDuJour": "9/12/2021",
+            "Temp": "23",
+            "MinTemp": "17",
+            "MaxTemp": "25"
+        },
+        {
+            "DateDuJour": "9/13/2021",
+            "Temp": "28",
+            "MinTemp": "26",
+            "MaxTemp": "35"
+        },
+        {
+            "DateDuJour": "9/14/2021",
+            "Temp": "19",
+            "MinTemp": "13",
+            "MaxTemp": "21"
+        },
+        {
+            "DateDuJour": "9/15/2021",
+            "Temp": "25",
+            "MinTemp": "22",
+            "MaxTemp": "32"
+        },
+        {
+            "DateDuJour": "9/16/2021",
+            "Temp": "26",
+            "MinTemp": "22",
+            "MaxTemp": "31"
+        },
+        {
+            "DateDuJour": "9/17/2021",
+            "Temp": "25",
+            "MinTemp": "19",
+            "MaxTemp": "28"
+        },
+        {
+            "DateDuJour": "9/18/2021",
+            "Temp": "26",
+            "MinTemp": "23",
+            "MaxTemp": "32"
+        },
+        {
+            "DateDuJour": "9/19/2021",
+            "Temp": "18",
+            "MinTemp": "14",
+            "MaxTemp": "21"
+        },
+        {
+            "DateDuJour": "9/20/2021",
+            "Temp": "29",
+            "MinTemp": "25",
+            "MaxTemp": "35"
+        },
+        {
+            "DateDuJour": "9/21/2021",
+            "Temp": "34",
+            "MinTemp": "29",
+            "MaxTemp": "39"
+        },
+        {
+            "DateDuJour": "9/22/2021",
+            "Temp": "9",
+            "MinTemp": "6",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "9/23/2021",
+            "Temp": "4",
+            "MinTemp": "0",
+            "MaxTemp": "10"
+        },
+        {
+            "DateDuJour": "9/24/2021",
+            "Temp": "10",
+            "MinTemp": "9",
+            "MaxTemp": "17"
+        },
+        {
+            "DateDuJour": "9/25/2021",
+            "Temp": "3",
+            "MinTemp": "-1",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "9/26/2021",
+            "Temp": "11",
+            "MinTemp": "8",
+            "MaxTemp": "13"
+        },
+        {
+            "DateDuJour": "9/27/2021",
+            "Temp": "8",
+            "MinTemp": "2",
+            "MaxTemp": "10"
+        },
+        {
+            "DateDuJour": "9/28/2021",
+            "Temp": "-2",
+            "MinTemp": "-4",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "9/29/2021",
+            "Temp": "11",
+            "MinTemp": "9",
+            "MaxTemp": "18"
+        },
+        {
+            "DateDuJour": "9/30/2021",
+            "Temp": "10",
+            "MinTemp": "4",
+            "MaxTemp": "13"
+        },
+        {
+            "DateDuJour": "10/1/2021",
+            "Temp": "0",
+            "MinTemp": "-1",
+            "MaxTemp": "6"
+        },
+        {
+            "DateDuJour": "10/2/2021",
+            "Temp": "5",
+            "MinTemp": "1",
+            "MaxTemp": "10"
+        },
+        {
+            "DateDuJour": "10/3/2021",
+            "Temp": "9",
+            "MinTemp": "6",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "10/4/2021",
+            "Temp": "14",
+            "MinTemp": "13",
+            "MaxTemp": "18"
+        },
+        {
+            "DateDuJour": "10/5/2021",
+            "Temp": "-3",
+            "MinTemp": "-7",
+            "MaxTemp": "2"
+        },
+        {
+            "DateDuJour": "10/6/2021",
+            "Temp": "5",
+            "MinTemp": "3",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "10/7/2021",
+            "Temp": "6",
+            "MinTemp": "1",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "10/8/2021",
+            "Temp": "-2",
+            "MinTemp": "-5",
+            "MaxTemp": "2"
+        },
+        {
+            "DateDuJour": "10/9/2021",
+            "Temp": "16",
+            "MinTemp": "10",
+            "MaxTemp": "23"
+        },
+        {
+            "DateDuJour": "10/10/2021",
+            "Temp": "7",
+            "MinTemp": "4",
+            "MaxTemp": "10"
+        },
+        {
+            "DateDuJour": "10/11/2021",
+            "Temp": "16",
+            "MinTemp": "11",
+            "MaxTemp": "20"
+        },
+        {
+            "DateDuJour": "10/12/2021",
+            "Temp": "0",
+            "MinTemp": "-6",
+            "MaxTemp": "4"
+        },
+        {
+            "DateDuJour": "10/13/2021",
+            "Temp": "-5",
+            "MinTemp": "-6",
+            "MaxTemp": "-3"
+        },
+        {
+            "DateDuJour": "10/14/2021",
+            "Temp": "4",
+            "MinTemp": "2",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "10/15/2021",
+            "Temp": "-1",
+            "MinTemp": "-7",
+            "MaxTemp": "2"
+        },
+        {
+            "DateDuJour": "10/16/2021",
+            "Temp": "-5",
+            "MinTemp": "-9",
+            "MaxTemp": "1"
+        },
+        {
+            "DateDuJour": "10/17/2021",
+            "Temp": "2",
+            "MinTemp": "-4",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "10/18/2021",
+            "Temp": "8",
+            "MinTemp": "7",
+            "MaxTemp": "15"
+        },
+        {
+            "DateDuJour": "10/19/2021",
+            "Temp": "-2",
+            "MinTemp": "-5",
+            "MaxTemp": "1"
+        },
+        {
+            "DateDuJour": "10/20/2021",
+            "Temp": "6",
+            "MinTemp": "4",
+            "MaxTemp": "11"
+        },
+        {
+            "DateDuJour": "10/21/2021",
+            "Temp": "8",
+            "MinTemp": "4",
+            "MaxTemp": "10"
+        },
+        {
+            "DateDuJour": "10/22/2021",
+            "Temp": "-4",
+            "MinTemp": "-6",
+            "MaxTemp": "-1"
+        },
+        {
+            "DateDuJour": "10/23/2021",
+            "Temp": "0",
+            "MinTemp": "-2",
+            "MaxTemp": "2"
+        },
+        {
+            "DateDuJour": "10/24/2021",
+            "Temp": "-5",
+            "MinTemp": "-7",
+            "MaxTemp": "0"
+        },
+        {
+            "DateDuJour": "10/25/2021",
+            "Temp": "3",
+            "MinTemp": "1",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "10/26/2021",
+            "Temp": "13",
+            "MinTemp": "8",
+            "MaxTemp": "18"
+        },
+        {
+            "DateDuJour": "10/27/2021",
+            "Temp": "-4",
+            "MinTemp": "-6",
+            "MaxTemp": "3"
+        },
+        {
+            "DateDuJour": "10/28/2021",
+            "Temp": "4",
+            "MinTemp": "-1",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "10/29/2021",
+            "Temp": "6",
+            "MinTemp": "1",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "10/30/2021",
+            "Temp": "8",
+            "MinTemp": "7",
+            "MaxTemp": "11"
+        },
+        {
+            "DateDuJour": "10/31/2021",
+            "Temp": "6",
+            "MinTemp": "2",
+            "MaxTemp": "8"
+        },
+        {
+            "DateDuJour": "11/1/2021",
+            "Temp": "-1",
+            "MinTemp": "-7",
+            "MaxTemp": "4"
+        },
+        {
+            "DateDuJour": "11/2/2021",
+            "Temp": "9",
+            "MinTemp": "5",
+            "MaxTemp": "12"
+        },
+        {
+            "DateDuJour": "11/3/2021",
+            "Temp": "-4",
+            "MinTemp": "-9",
+            "MaxTemp": "-1"
+        },
+        {
+            "DateDuJour": "11/4/2021",
+            "Temp": "1",
+            "MinTemp": "-4",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "11/5/2021",
+            "Temp": "-4",
+            "MinTemp": "-6",
+            "MaxTemp": "1"
+        },
+        {
+            "DateDuJour": "11/6/2021",
+            "Temp": "0",
+            "MinTemp": "-1",
+            "MaxTemp": "4"
+        },
+        {
+            "DateDuJour": "11/7/2021",
+            "Temp": "10",
+            "MinTemp": "6",
+            "MaxTemp": "15"
+        },
+        {
+            "DateDuJour": "11/8/2021",
+            "Temp": "7",
+            "MinTemp": "5",
+            "MaxTemp": "10"
+        },
+        {
+            "DateDuJour": "11/9/2021",
+            "Temp": "9",
+            "MinTemp": "8",
+            "MaxTemp": "16"
+        },
+        {
+            "DateDuJour": "11/10/2021",
+            "Temp": "10",
+            "MinTemp": "8",
+            "MaxTemp": "13"
+        },
+        {
+            "DateDuJour": "11/11/2021",
+            "Temp": "-1",
+            "MinTemp": "-2",
+            "MaxTemp": "6"
+        },
+        {
+            "DateDuJour": "11/12/2021",
+            "Temp": "1",
+            "MinTemp": "-1",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "11/13/2021",
+            "Temp": "-3",
+            "MinTemp": "-6",
+            "MaxTemp": "0"
+        },
+        {
+            "DateDuJour": "11/14/2021",
+            "Temp": "-5",
+            "MinTemp": "-7",
+            "MaxTemp": "-3"
+        },
+        {
+            "DateDuJour": "11/15/2021",
+            "Temp": "14",
+            "MinTemp": "8",
+            "MaxTemp": "20"
+        },
+        {
+            "DateDuJour": "11/16/2021",
+            "Temp": "7",
+            "MinTemp": "3",
+            "MaxTemp": "10"
+        },
+        {
+            "DateDuJour": "11/17/2021",
+            "Temp": "1",
+            "MinTemp": "0",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "11/18/2021",
+            "Temp": "-1",
+            "MinTemp": "-3",
+            "MaxTemp": "6"
+        },
+        {
+            "DateDuJour": "11/19/2021",
+            "Temp": "9",
+            "MinTemp": "8",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "11/20/2021",
+            "Temp": "14",
+            "MinTemp": "9",
+            "MaxTemp": "20"
+        },
+        {
+            "DateDuJour": "11/21/2021",
+            "Temp": "2",
+            "MinTemp": "-2",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "11/22/2021",
+            "Temp": "2",
+            "MinTemp": "1",
+            "MaxTemp": "4"
+        },
+        {
+            "DateDuJour": "11/23/2021",
+            "Temp": "8",
+            "MinTemp": "5",
+            "MaxTemp": "12"
+        },
+        {
+            "DateDuJour": "11/24/2021",
+            "Temp": "10",
+            "MinTemp": "4",
+            "MaxTemp": "13"
+        },
+        {
+            "DateDuJour": "11/25/2021",
+            "Temp": "3",
+            "MinTemp": "-1",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "11/26/2021",
+            "Temp": "0",
+            "MinTemp": "-4",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "11/27/2021",
+            "Temp": "2",
+            "MinTemp": "0",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "11/28/2021",
+            "Temp": "-4",
+            "MinTemp": "-5",
+            "MaxTemp": "1"
+        },
+        {
+            "DateDuJour": "11/29/2021",
+            "Temp": "14",
+            "MinTemp": "9",
+            "MaxTemp": "16"
+        },
+        {
+            "DateDuJour": "11/30/2021",
+            "Temp": "0",
+            "MinTemp": "-3",
+            "MaxTemp": "6"
+        },
+        {
+            "DateDuJour": "12/1/2021",
+            "Temp": "3",
+            "MinTemp": "2",
+            "MaxTemp": "7"
+        },
+        {
+            "DateDuJour": "12/2/2021",
+            "Temp": "16",
+            "MinTemp": "12",
+            "MaxTemp": "18"
+        },
+        {
+            "DateDuJour": "12/3/2021",
+            "Temp": "9",
+            "MinTemp": "7",
+            "MaxTemp": "15"
+        },
+        {
+            "DateDuJour": "12/4/2021",
+            "Temp": "-3",
+            "MinTemp": "-6",
+            "MaxTemp": "1"
+        },
+        {
+            "DateDuJour": "12/5/2021",
+            "Temp": "0",
+            "MinTemp": "-1",
+            "MaxTemp": "2"
+        },
+        {
+            "DateDuJour": "12/6/2021",
+            "Temp": "7",
+            "MinTemp": "1",
+            "MaxTemp": "10"
+        },
+        {
+            "DateDuJour": "12/7/2021",
+            "Temp": "-4",
+            "MinTemp": "-6",
+            "MaxTemp": "-2"
+        },
+        {
+            "DateDuJour": "12/8/2021",
+            "Temp": "8",
+            "MinTemp": "6",
+            "MaxTemp": "11"
+        },
+        {
+            "DateDuJour": "12/9/2021",
+            "Temp": "8",
+            "MinTemp": "4",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "12/10/2021",
+            "Temp": "10",
+            "MinTemp": "7",
+            "MaxTemp": "17"
+        },
+        {
+            "DateDuJour": "12/11/2021",
+            "Temp": "11",
+            "MinTemp": "5",
+            "MaxTemp": "16"
+        },
+        {
+            "DateDuJour": "12/12/2021",
+            "Temp": "11",
+            "MinTemp": "5",
+            "MaxTemp": "15"
+        },
+        {
+            "DateDuJour": "12/13/2021",
+            "Temp": "7",
+            "MinTemp": "1",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "12/14/2021",
+            "Temp": "-3",
+            "MinTemp": "-8",
+            "MaxTemp": "0"
+        },
+        {
+            "DateDuJour": "12/15/2021",
+            "Temp": "-3",
+            "MinTemp": "-5",
+            "MaxTemp": "4"
+        },
+        {
+            "DateDuJour": "12/16/2021",
+            "Temp": "3",
+            "MinTemp": "1",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "12/17/2021",
+            "Temp": "-2",
+            "MinTemp": "-8",
+            "MaxTemp": "3"
+        },
+        {
+            "DateDuJour": "12/18/2021",
+            "Temp": "7",
+            "MinTemp": "3",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "12/19/2021",
+            "Temp": "7",
+            "MinTemp": "1",
+            "MaxTemp": "9"
+        },
+        {
+            "DateDuJour": "12/20/2021",
+            "Temp": "2",
+            "MinTemp": "0",
+            "MaxTemp": "5"
+        },
+        {
+            "DateDuJour": "12/21/2021",
+            "Temp": "11",
+            "MinTemp": "7",
+            "MaxTemp": "14"
+        },
+        {
+            "DateDuJour": "12/22/2021",
+            "Temp": "-9",
+            "MinTemp": "-15",
+            "MaxTemp": "-5"
+        },
+        {
+            "DateDuJour": "12/23/2021",
+            "Temp": "-5",
+            "MinTemp": "-7",
+            "MaxTemp": "2"
+        },
+        {
+            "DateDuJour": "12/24/2021",
+            "Temp": "-4",
+            "MinTemp": "-8",
+            "MaxTemp": "0"
+        },
+        {
+            "DateDuJour": "12/25/2021",
+            "Temp": "-9",
+            "MinTemp": "-10",
+            "MaxTemp": "-7"
+        },
+        {
+            "DateDuJour": "12/26/2021",
+            "Temp": "-9",
+            "MinTemp": "-12",
+            "MaxTemp": "-6"
+        },
+        {
+            "DateDuJour": "12/27/2021",
+            "Temp": "-7",
+            "MinTemp": "-8",
+            "MaxTemp": "-3"
+        },
+        {
+            "DateDuJour": "12/28/2021",
+            "Temp": "-6",
+            "MinTemp": "-12",
+            "MaxTemp": "-1"
+        },
+        {
+            "DateDuJour": "12/29/2021",
+            "Temp": "-3",
+            "MinTemp": "-9",
+            "MaxTemp": "0"
+        },
+        {
+            "DateDuJour": "12/30/2021",
+            "Temp": "-5",
+            "MinTemp": "-10",
+            "MaxTemp": "-1"
+        },
+        {
+            "DateDuJour": "12/31/2021",
+            "Temp": "-3",
+            "MinTemp": "-9",
+            "MaxTemp": "2"
+        }
+    ]
+}
