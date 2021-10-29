@@ -12,5 +12,13 @@
     "json-server": "^0.17.0",
     "readline-sync": "^1.4.10"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Younes-Bekkali/BdeB-IHM-WeatherForecastProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Younes-Bekkali/BdeB-IHM-WeatherForecastProject/issues"
+  },
+  "homepage": "https://github.com/Younes-Bekkali/BdeB-IHM-WeatherForecastProject#readme",
   "description": ""
 }
